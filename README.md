@@ -1,10 +1,10 @@
-#📌 Sistema de Suporte de Tickets (Node.js puro)
+# 📌 Sistema de Suporte de Tickets (Node.js puro)
 
 Desenvolvi este projeto com o objetivo de aprofundar meus conhecimentos em JavaScript e Node.js, focando na construção de uma API do zero, sem o uso de frameworks ou bibliotecas externas.
 
 A proposta foi simular um sistema de suporte técnico, onde é possível gerenciar tickets de problemas — como, por exemplo, um teclado que não está funcionando — permitindo operações completas de CRUD (Create, Read, Update, Delete).
 
-##🚀 Tecnologias e conceitos utilizados
+## 🚀 Tecnologias e conceitos utilizados
 Node.js (sem frameworks como Express)
 JavaScript puro
 Manipulação de requisições HTTP nativas
@@ -12,7 +12,7 @@ Estruturação de rotas manualmente
 Organização de dados em memória
 Testes de requisições com Insomnia
 
-##⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 📥 Abertura de tickets
 📋 Listagem de tickets
 ✏️ Atualização de tickets
